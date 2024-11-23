@@ -1,20 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+# 👋 Hi, I'm Abhishek Biradar!
 
-- 🌱 I’m currently learning **Data Science and Django**
+Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI Enthusiast**, and **Problem Solver** who loves building impactful projects and solving real-world problems with code. 
 
-- 📝 I regularly write articles on [https://my-blog-website-tdj1.onrender.com](https://my-blog-website-tdj1.onrender.com)
+---
 
-- 💬 Ask me about **Bootstrap, Selenium automation and Python**
+## 🚀 About Me
 
-- 📫 How to reach me **abhishekbiradar0207@gmail.com**
+- 🔧 **Tech Stack**:  
+  Proficient in **Python**, **JavaScript**, **React**, **Django**, and **AI/ML frameworks**. I enjoy working across the stack, whether it's designing elegant UIs or crafting robust backend systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-biradar-915404281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-biradar-915404281/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhishekbirada17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekbirada17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aabi0207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aabi0207/" height="30" width="40" /></a>
-</p>
+- 🧠 **What I Love**:  
+  Developing AI models, solving challenging coding problems, and creating user-centric applications that make a difference.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- 💡 **Ongoing Projects**:  
+  1. **Bhagavad Gita GPT** – Leveraging transformers for spiritual text modeling.  
+  2. **Portfolio Website** – Showcasing my projects and skills with a personal touch.  
+
+---
+
+## 🌟 Highlights  
+
+- 🏗️ **Portfolio**: [aabi.pythonanywhere.com](https://aabi.pythonanywhere.com/)  
+- 🧩 **Problem Solving**: Check out my LeetCode progress: [leetcode.com/aabi0207](https://leetcode.com/aabi0207/)  
+- 🌐 **LinkedIn**: [Abhishek Biradar](https://www.linkedin.com/in/abhishek-biradar-915404281)  
+- 📩 **Email**: abhishekbiradar0207@gmail.com  
+
+---
+
+## 📂 Featured Repositories  
+
+### [Bhagavad Gita GPT](https://github.com/AbhishekBiradar/BhagavadGita-GPT)  
+🚀 *A GPT-based character-level language model for generating text inspired by the Bhagavad Gita.*  
+- Implements state-of-the-art transformer architecture.
+- Optimized for character-level text generation.  
+
+### [Portfolio Website](https://aabi.pythonanywhere.com/)  
+🌐 *A sleek, responsive portfolio showcasing my projects and skills.*  
+- Built using **React** and **Django**.
+- Features categorized project sections, skill tables, and a modern design.
+
+---
+
+## 💻 Technologies I Work With
+
+### Frontend  
+- React.js, HTML5, CSS3, JavaScript  
+
+### Backend  
+- Django, Flask, REST APIs  
+
+### AI/ML  
+- PyTorch, Hugging Face, NLTK,  
+
+### Databases  
+- MySQL, PostgreSQL  
+
+### Tools  
+- Git, Docker, VS Code, Jupyter  
+
+---
+
+## 🏆 LeetCode Progress  
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aabi0207&theme=light)
+
+---
+
+## 📬 Get in Touch  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-biradar-915404281) or drop an email at **abhishekbiradar0207@gmail.com**. I'm always open to interesting collaborations and discussions!  
+
+---
+
