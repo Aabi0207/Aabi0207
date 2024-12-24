@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI Enth
 
 ## 🌟 Highlights  
 
-- 🏗️ **Portfolio**: [aabi.pythonanywhere.com](https://aabi.pythonanywhere.com/)  
+- 🏗️ **Portfolio**: [https://abhishek-biradar.vercel.app/](https://abhishek-biradar.vercel.app/)
 - 🧩 **Problem Solving**: Check out my LeetCode progress: [leetcode.com/aabi0207](https://leetcode.com/aabi0207/)  
 - 🌐 **LinkedIn**: [Abhishek Biradar](https://www.linkedin.com/in/abhishek-biradar-915404281)  
 - 📩 **Email**: abhishekbiradar0207@gmail.com  
